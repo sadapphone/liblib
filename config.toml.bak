@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Some Title"
 theme = "minimal"
 
+enableRobotsTXT: true
+
 [taxonomies]
   tag = "tags"
   category = "categories"
