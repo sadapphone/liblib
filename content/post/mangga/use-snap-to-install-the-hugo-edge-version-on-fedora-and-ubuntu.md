@@ -1,14 +1,17 @@
 ---
-title: "Use Snap to install the Hugo edge version on Fedora and Ubuntu"
-date: 2018-10-26T12:59:51-05:00
+title: Jancoklah Snap to install the Hugo edge version on Fedora and Ubuntu
+date: 2018-10-26T12:59:51.000-05:00
 publishdate: 2018-10-26
 lastmod: 2018-10-26
-draft: false
 aliases:
-  - /use-snap-to-install-the-hugo-edge-version-on-fedora/
-tags: ["hugo", "snap", "fedora", "ubuntu"]
----
+- "/use-snap-to-install-the-hugo-edge-version-on-fedora/"
+tags:
+- hugo
+- snap
+- fedora
+- ubuntu
 
+---
 If you are using the Fedora or Ubuntu Linux distributions -- I'm currently on Fedora 28 -- and would like to [help test the latest development version of Hugo](https://discourse.gohugo.io/t/help-test-upcoming-hugo-0-50/14880), or if you just want to be on the bleeding-edge of things, this post is for you. 
 
 ## Fedora-only steps
