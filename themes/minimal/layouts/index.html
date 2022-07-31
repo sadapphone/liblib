@@ -8,7 +8,7 @@
 {{ end }}
 <h1>{{ $homepage }}</h1>
 
-{{ $pages := site.RegularPages }}
+{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{ range $pages.ByPublishDate.Reverse }}
   <p>
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
