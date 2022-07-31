@@ -1,8 +1,8 @@
 +++
-categories = ["software, aplikasi"]
+categories = ["tips"]
 date = 2022-07-05T08:00:00Z
 slug = "8-tips-untuk-membuat-video-tutorial-youtube-1758"
-tags = ["ulasan"]
+tags = ["video"]
 title = "8 Tips for Creating a Successful Tutorial Video        1758"
 
 +++
