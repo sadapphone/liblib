@@ -1,9 +1,9 @@
 +++
-date= "2022-07-5T17:00:00+09:00"
-tags= ["ulasan"]
-draft=true
-title= "Best & Free Ways to Send Anonymous Text Message from Computer/Mobile        235"
-slug= "anonymous-text-message-terbaik-235"
-categories= ["software, aplikasi"]
+categories = ["software, aplikasi"]
+date = 2022-07-05T08:00:00Z
+slug = "anonymous-text-message-terbaik-235"
+tags = ["ulasan"]
+title = "Best & Free Ways to Send Anonymous Text Message from Computer/Mobile        235"
+
 +++
 asd
