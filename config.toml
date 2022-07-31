@@ -1,6 +1,6 @@
 baseURL = "https://liblib.netlify.app"
 languageCode = "en-us"
-title = "Some Title"
+title = "sadapphone"
 theme = "minimal"
 
 enableRobotsTXT= "true"
